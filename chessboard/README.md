@@ -30,14 +30,14 @@ Each board cell should be represented by a `2 × 2` block of characters.
 
 For `n = 4`:
 
-    **    ** 
-    **    **
-       **    **
-       **    **
-    **    **
-    **    **
-       **    **
-       **    **
+    **  **  
+    **  **  
+      **  **
+      **  **
+    **  **  
+    **  **  
+      **  **
+      **  **
 
 > Tip: If your viewer makes spaces hard to see, temporarily replace
 > spaces with a visible placeholder (e.g., `·`) to inspect alignment.

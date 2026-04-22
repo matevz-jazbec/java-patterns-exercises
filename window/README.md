@@ -12,7 +12,7 @@ Concepts practiced: nested loops, parameterized dimensions, borders, center colu
 
 ## Task
 
-Implement a method `window(int n)` that prints a window pattern with:
+Implement a method `drawWindow(int n)` that prints a window pattern with:
 - Height = `n + 2`
 - Width  = `3 * n`
 - Top and bottom rows are a full border of `*`.
