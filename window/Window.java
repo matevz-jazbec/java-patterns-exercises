@@ -12,7 +12,7 @@ public class Window {
         }
     }
 
-    public static void main(String[] args 5) {
+    public static void main(String[] args) {
         drawWindow(3);
     }
 }
