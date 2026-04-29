@@ -19,7 +19,7 @@ Implement a method `drawWindow(int n)` that prints a window pattern with:
 - Interior rows have `*` at the first and last column, and a `*` at the center column.
 - All other positions are spaces.
 
-When `n <= 0`, nothing should be printed (or print a short message).
+When `n <= 0`, no visible characters are printed.
 
 ---
 
